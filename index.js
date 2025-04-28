@@ -6,3 +6,6 @@ const dob="10/10/2001"
 }
 const a=15;
 const b=15;
+function newFnc(){
+      console.log("shree shivay namastubhyam");
+}
