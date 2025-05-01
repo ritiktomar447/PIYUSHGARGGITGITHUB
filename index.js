@@ -9,3 +9,6 @@ const b=15;
 function newFnc(){
       console.log("shree shivay namastubhyam");
 }
+function newfeature(){
+      console.log("shree ganeshay namh");
+}
