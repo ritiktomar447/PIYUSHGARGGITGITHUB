@@ -11,4 +11,5 @@ function newFnc(){
 }
 function newfeature(){
       console.log("shree ganeshay namh");
+      console.log("hii");
 }
